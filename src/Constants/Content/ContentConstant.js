@@ -1,0 +1,2 @@
+export const CONTENT_SHOW = 'CONTENT_SHOW'
+export const CONTENT_NOT_SHOW = 'CONTENT_NOT_SHOW'
