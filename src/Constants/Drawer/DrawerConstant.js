@@ -1,0 +1,2 @@
+export const DRAWER_SHOW = 'DRAWER_SHOW'
+export const DRAWER_NOT_SHOW = 'DRAWER_NOT_SHOW'
